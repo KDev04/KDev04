@@ -19,21 +19,9 @@ Tôi là Huỳnh Khánh, một lập trình viên đam mê với kiến thức �
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Web Development:**
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Dự Án Đang Tham Gia
-
-1. [Tên Dự Án 1](link đến dự án 1): Mô tả ngắn về dự án và vai trò của bạn.
-
-2. [Tên Dự Án 2](link đến dự án 2): Mô tả ngắn về dự án và vai trò của bạn.
-
 ## Liên Hệ
 
 - 📧 Email: khanhdev2206@gmail.com
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 
 ## Thông Tin Khác
