@@ -1,10 +1,10 @@
-# Hello ! 👋
+# Hello! 👋
 
-## Giới Thiệu
+## Introduction
 
-Tôi là Huỳnh Khánh, một lập trình viên đam mê với kiến thức đa dạng và kinh nghiệm trong nhiều ngôn ngữ lập trình và framework.
+I'm Huynh Khanh, a passionate programmer with diverse knowledge and experience in various programming languages, frameworks, and technologies.
 
-## Kỹ Năng và Ngôn Ngữ Lập Trình
+## Skills and Programming Languages
 
 - **Frontend:**
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -14,18 +14,22 @@ Tôi là Huỳnh Khánh, một lập trình viên đam mê với kiến thức �
 - **Backend:**
   - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  - ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+  - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 - **Database:**
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## Liên Hệ
+- **Other Technologies:**
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Contact
 
 - 📧 Email: khanhdev2206@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 
-## Thông Tin Khác
+## Additional Information
 
-- 😄 Pronouns: Anh
-- ⚡ Sự thật thú vị: Một sự thật thú vị về bạn hoặc sở thích nào đó.
-
+- 😄 Pronouns: He
+- ⚡ Fun Fact: An interesting fact about yourself or any hobby.
