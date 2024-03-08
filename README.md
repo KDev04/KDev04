@@ -1,6 +1,4 @@
-# Xin chào mọi người! 👋
-
-![Cover Image](url_to_your_cover_image.jpg)
+# Hello ! 👋
 
 ## Giới Thiệu
 
