@@ -32,4 +32,4 @@ I'm Huynh Khanh, a passionate programmer with diverse knowledge and experience i
 ## Additional Information
 
 - 😄 Pronouns: He
-- ⚡ Fun Fact: An interesting fact about yourself or any hobby.
+
