@@ -30,8 +30,7 @@ I'm Huynh Khanh, a passionate programmer with diverse knowledge and experience i
 - 📧 Email: khanhdev2206@gmail.com
 
 # GitHub Stats
-|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KDev04&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|
-|-|-|
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KDev04&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
