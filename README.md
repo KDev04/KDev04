@@ -29,7 +29,5 @@ I'm Huynh Khanh, a passionate programmer with diverse knowledge and experience i
 
 - 📧 Email: khanhdev2206@gmail.com
 
-## Additional Information
 
-- 😄 Pronouns: He
 
