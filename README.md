@@ -1,36 +1,125 @@
-# Hello! 👋
+<h1 align="center">Hello! 👋</h1>
+<h3 align="center">I'm Huynh Khanh :pouting_cat: , a passionate programmer with diverse knowledge and experience in various programming languages, frameworks, and technologies !</h3>
 
-## Introduction
 
-I'm Huynh Khanh, a passionate programmer with diverse knowledge and experience in various programming languages, frameworks, and technologies.
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=KDev04    alt=rahuldkjain/> </p>
 
-## Skills and Programming Languages
+# Language and Tools :
+<div align="center">
+    <p align="center">
+        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                alt="csharp" width="40" height="40" />
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                alt="css3" width="40" height="40" />
+        </a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                alt="html5" width="40" height="40" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+            rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                alt="javascript" width="40" height="40" />
+        </a>
+        <a href="https://www.php.net" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+                alt="php" width="40" height="40" />
+        </a>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                alt="python" width="40" height="40" />
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                alt="typescript" width="40" height="40" />
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                alt="bootstrap" width="40" height="40" />
+        </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                alt="react" width="40" height="40" />
+        </a>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                alt="nodejs" width="40" height="40" />
+        </a>
+        <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+            <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40"
+                height="40" />
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb"
+                width="40" height="40" />
+        </a>
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
+                width="40" height="40" />
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                alt="mysql" width="40" height="40" />
+        </a>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                alt="postgresql" width="40" height="40" />
+        </a>
+    </p>
+    <p
+        align="center">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
+                width="40" height="40" />
+        </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+                alt="docker" width="40" height="40" />
+        </a>
+        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+                alt="dotnet" width="40" height="40" />
+        </a>
+        <a href="https://postman.com" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+                alt="postman" width="40" height="40" />
+        </a>
+    </p>
 
-- **Frontend:**
-  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-- **Backend:**
-  - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  - ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-  - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-- **Database:**
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  - ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-- **Other Technologies:**
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## Contact
+# Contact
 
 - 📧 Email: khanhdev2206@gmail.com
 
 # GitHub Stats
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KDev04&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KDev04&layout=compact&langs_count=10" alt="Top Langs">
+  </a>
+</div>
 
 
 
