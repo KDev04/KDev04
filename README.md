@@ -7,11 +7,6 @@
 # Language and Tools :
 <div align="center">
     <p align="center">
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                alt="csharp" width="40" height="40" />
-        </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -28,6 +23,16 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" />
         </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                alt="typescript" width="40" height="40" />
+        </a>
+        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                alt="csharp" width="40" height="40" />
+        </a>
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -38,12 +43,8 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python" width="40" height="40" />
         </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                alt="typescript" width="40" height="40" />
-        </a>
     </p>
+<hr />
     <p align="center">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img
@@ -65,6 +66,7 @@
                 height="40" />
         </a>
     </p>
+<hr />
     <p align="center">
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb"
@@ -85,6 +87,7 @@
                 alt="postgresql" width="40" height="40" />
         </a>
     </p>
+<hr />
     <p
         align="center">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -105,8 +108,7 @@
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
                 alt="postman" width="40" height="40" />
         </a>
-    </p>
-
+    </p> 
 </div>
 
 
